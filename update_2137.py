@@ -2,7 +2,7 @@ import re
 import datetime
 import math
 
-pattern = re.compile(r"<!--here2137goes-->\n(?:.*\n){2}<!--end2137-->")
+pattern = re.compile(r"<!--here2137goes-->\n(?:.*\n){3}<!--end2137-->")
 
 fnow = datetime.datetime.utcnow() + datetime.timedelta(hours=2)
 now = fnow.replace(second=0, microsecond=0)
@@ -21,9 +21,9 @@ else:
         arr.append(f'{hours} hours')
     if mins > 0:
         arr.append(f'{mins} minutes')
-    text = f"####21:37 will be in **{' and '.join(arr)}** (UTC+2)"
+    text = f"21:37 will be in **{' and '.join(arr)}** (UTC+2)"
 
-text += f"\n*Last updated: {fnow.strftime('%H:%M:%S')} (UTC+2)*"
+text += f"\n\n*Last updated: {fnow.strftime('%H:%M:%S')} (UTC+2)*"
 
 with open("README.md", "r") as f:
     readme = f.read()
