@@ -2,10 +2,10 @@
 I'm an IT student who loves linux and programming.
 
 ### 🔭 I’m currently working on:
-* **[StreamChatMod](/mini-bomba/StreamChatMod)**, a modification for Minecraft (currently forge 1.8.9, fabric 1.16.5+ soon™) that adds any Twitch chat into the minecraft chat for easy access
+* **[StreamChatMod](https://github.com/mini-bomba/StreamChatMod)**, a modification for Minecraft (currently forge 1.8.9, fabric 1.16.5+ soon™) that adds any Twitch chat into the minecraft chat for easy access
 * **EndermanBot** (👀 closed-source 👀), a bot for Discord
-* **[Create/Update Github Release](/marketplace/actions/create-update-github-release)**, a GitHub Action made for StreamChatMod (but you can use it too) that can manage a rolling `latest` prerelease
-* ~~**[BarszczSosnowskiMod](/ZSPWrzesniaTeam/BarszczSosnowskiMod)**, a mod for minecraft that adds the Barszcz Sosnowski™~~ nah just kidding, that project is a meme at this point
+* **[Create/Update Github Release](https://github.com/marketplace/actions/create-update-github-release)**, a GitHub Action made for StreamChatMod (but you can use it too) that can manage a rolling `latest` prerelease
+* ~~**[BarszczSosnowskiMod](https://github.com/ZSPWrzesniaTeam/BarszczSosnowskiMod)**, a mod for minecraft that adds the Barszcz Sosnowski™~~ nah just kidding, that project is a meme at this point
 
 ### 🌱 I’m currently learning:
 * Github Actions
