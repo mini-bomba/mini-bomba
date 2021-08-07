@@ -20,6 +20,8 @@ jobs:
       - name: "Update 2137"
         run: |
           python update_2137.py
-          git commit -a -m "Automatic update of README.md"
+          git config user.name "github-actions"
+          git config user.email "<>"
+          git commit -a -S -m "Automatic update of README.md"
           git push
           echo "pog"
