@@ -1,0 +1,25 @@
+name: "Update README.md"
+on:
+  schedule:
+    - cron: '0,5,10,15,20,25-40,45,50,55 19 * * *'
+    - cron: '*/30 0-18,20-23 * * *'
+  workflow_dispatch:
+    inputs:
+      hour:
+        description: '2137'
+        required: true
+        default: '2137'
+
+jobs:
+  update-2137:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: "Checkout repo"
+        if: always()
+        uses: actions/checkout@v2
+      - name: "Update 2137"
+        run: |
+          python update_2137.py
+          git commit -a -m "Automatic update of README.md"
+          git push
+          echo "pog"
