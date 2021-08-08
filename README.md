@@ -27,7 +27,7 @@ I'm an IT student who loves linux and programming.
 
 ### 😳 Fun fact:
 <!--here2137goes-->
-21:37 will be in **14 hours and 2 minutes** (UTC+2)
+21:37 will be in **13 hours and 20 minutes** (UTC+2)
 
-*Last updated: 07:35:21 (UTC+2)*
+*Last updated: 08:17:15 (UTC+2)*
 <!--end2137-->
