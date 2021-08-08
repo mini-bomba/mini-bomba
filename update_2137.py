@@ -7,7 +7,7 @@ pattern = re.compile(r"<!--here2137goes-->\n(?:.*\n){3}<!--end2137-->")
 fnow = datetime.datetime.utcnow() + datetime.timedelta(hours=2)
 now = fnow.replace(second=0, microsecond=0)
 if now.hour == 21 and now.minute == 37:
-    text = "####**It's now 21:37!** (UTC+2)"
+    text = "**It's now 21:37!** (UTC+2)"
 else:
     next2137 = now.replace(hour=21, minute=37, second=0, microsecond=0)
     if now.hour >= 22 or (now.hour == 21 and now.minute > 37):
