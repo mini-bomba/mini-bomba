@@ -24,10 +24,3 @@ I'm an IT student who loves linux and programming.
 * On Discord directly: mini_bomba#2137 (though I will most likely deny your friend request)
 * On Discord via a server: [Endermanolandia](https://discord.gg/SwhAyKg)
 * Whenever I stream on Twitch: [mini__bomba](https://twitch.tv/mini__bomba)
-
-### 😳 Fun fact:
-<!--here2137goes-->
-21:37 will be in **4 hours and 21 minutes** (UTC+2)
-
-*Last updated: 17:16:10 (UTC+2)*
-<!--end2137-->
