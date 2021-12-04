@@ -21,6 +21,6 @@ I'm an IT student who loves linux and programming.
 * Lua/Luau/Roblox Lua
 
 ### 📫 How to reach me:
-* On Discord directly: mini_bomba#2137 (though I will most likely deny your friend request)
+* On Discord directly: mini_bomba#2904 (though I will most likely deny your friend request)
 * On Discord via a server: [Endermanolandia](https://discord.gg/SwhAyKg)
 * Whenever I stream on Twitch: [mini__bomba](https://twitch.tv/mini__bomba)
