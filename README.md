@@ -23,4 +23,5 @@ I'm an IT student who loves linux and programming.
 ### 📫 How to reach me:
 * On Discord directly: mini_bomba#2720 (though I will most likely deny your friend request)
 * On Discord via a server: [Endermanolandia](https://discord.gg/SwhAyKg)
+* On Matrix: @mini_bomba:matrix.org
 * Whenever I stream on Twitch: [mini__bomba](https://twitch.tv/mini__bomba)
