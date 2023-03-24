@@ -2,6 +2,7 @@
 I'm an IT student who loves linux and programming.
 
 ### 🔭 I’m currently working on:
+* **[ajayyy's SponsorBlock](https://github.com/ajayyy/SponsorBlock)**, an extension for blocking sponsors & other unwanted segments from youtube videos. I often do debugging & bugfixes, sometimes I add a nice feature.
 * **[StreamChatMod](https://github.com/mini-bomba/StreamChatMod)**, a modification for Minecraft (currently forge 1.8.9, fabric 1.16.5+ soon™) that adds any Twitch chat into the minecraft chat for easy access
 * **[EndermanBot](https://discord.com/oauth2/authorize?client_id=676496144800415746&permissions=8&redirect_uri=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&response_type=code&scope=bot)** (👀 closed-source 👀), a bot for Discord
 * **[mini_bomba utils](https://github.com/mini-bomba/mini_bomba-utils)**, a collection of CLI utility scripts
